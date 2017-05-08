@@ -151,6 +151,6 @@ Sugestões e melhorias
 
 O presente Código de Conduta é um documento vivo e que conduz nosso grupo a ser melhor e maior. Por isso, estamos abertos a comentários e ajustes que podem ser propostos através de Pull Requests ou Issues.
 
-Créditos & Fontes: http://pt-br.confcodeofconduct.com/,  http://2012.jsconf.us/#/about & The Ada Initiative, https://github.com/iOSDevBR/Codigo-De-Conduta
+Créditos & Fontes: http://pt-br.confcodeofconduct.com/,  http://2012.jsconf.us/#/about & The Ada Initiative, https://github.com/iOSDevBR/Codigo-De-Conduta e https://github.com/androiddevbr/codigo-de-conduta
 
 Esta obra está licenciada sob Creative Commons Attribution 3.0 Unported License (https://creativecommons.org/licenses/by/3.0/br/)
